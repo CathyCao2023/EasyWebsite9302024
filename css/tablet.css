@@ -1,0 +1,13 @@
+@media all and (max-width: 800px) {
+  header {
+    background-color: #fff;
+  }
+  footer {
+    background-color: #fff;
+    flex-direction: column;
+    gap: 0;
+  }
+  footer .copyright {
+    text-align: left;
+  }
+}

@@ -1,0 +1,12 @@
+@media all and (max-width: 400px) {
+  header {
+    background-color: brown;
+    flex-direction: column;
+    padding-bottom: 0.5em;
+    border-bottom: 2em solid black;
+  }
+  footer {
+    background-color: brown;
+    white-space: wrap;
+  }
+}
